@@ -79,4 +79,4 @@ def minimize_cash_flow(net_amounts):
     return transactions
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
